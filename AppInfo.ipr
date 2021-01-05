@@ -35,6 +35,9 @@
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+  </component>
   <component name="dataSourceStorageLocal">
     <data-source name="appinfodb@localhost" uuid="5199a4ee-c95d-43c7-bef2-c6739542d4c9">
       <database-info product="MySQL" version="8.0.19" jdbc-version="4.2" driver-name="MySQL Connector/J" driver-version="mysql-connector-java-8.0.15 (Revision: 79a4336f140499bd22dd07f02b708e163844e3d5)" dbms="MYSQL" exact-version="8.0.19" exact-driver-version="8.0">
